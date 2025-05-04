@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">K22411C_PrimerGrado</string>
+    <string name="title_app">Primer Grado</string>
+    <string name="title_coefficient_a">Coeficiente a:</string>
+    <string name="title_coefficient_b">Coeficiente b:</string>
+    <string name="title_solution">Solución</string>
+    <string name="title_next">Siguiente</string>
+    <string name="title_exit">Salir</string>
+    <string name="title_result">Resultado</string>
+    <string name="title_infinity">¡Infinito!</string>
+    <string name="title_nosolution">Sin solución</string>
+    <string name="title_english">Inglés</string>
+    <string name="title_vietnamese">Vietnamita</string>
+    <string name="title_French">Francés</string>
+    <string name="title_spanish">Español</string>
+
+</resources>
